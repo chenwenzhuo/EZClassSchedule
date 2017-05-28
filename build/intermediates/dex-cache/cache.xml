@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_78ef470aa149213f61e9a5b77cd30f481a2395db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.0-beta4\de5935a367ba5e343e9df786ac8fc0c7d52b5f0c\converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.0.0-beta4_ca7d22fdd7b03f7ad5e3942c5e145db6d1f3c2c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\1684481f339ace8662ef144e539e6ba182c30b79\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a4fbbd3a54f8d6ddd9c9152158067426e146aaba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.1.2\7052283359001bb108753cb0583a887d3bf94c82\okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.1.2_9f966824ae0d763839b1848d83c4947a60d18ece\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\21c1431e263ca257ed9b8f7859c114bb40d33790\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9dcf181fa8ae313b29ab86c43d36f5903e76adf0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\d92d381898042f08ef7b827a541dfeeebad54204\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e038a765679e9761ded232bca51531c936d746f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\4384817344bd34ec401e7c57b1634a2649110d7e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a888daf9ea02d1efbcbe3ef43c8c52b480099dee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\e79f36a92826a174b9c91b001586bfc7f47aa8f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe1cb3a517f74cc8c4e783a36848d9f610f9e33d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.0.0-beta4\bd49baf667542c7d06f71e598bdee7fe57272013\adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\adapter-rxjava-2.0.0-beta4_829a6e475f63ff89bed253f98b621f2db9e2251d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\1670e609493ccf9e719e7fb08f97cd5ac383736a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7d452c9716c71d2c1d2eb2539c1dfb2b7d251b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.1.2\a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0\logging-interceptor-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1b4b8e4dc5f7bfa9186e79f9e267c1539a847b0">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.1.2_6f4df7eb474cb07c3f8a925de84a1a5e3554869e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\79ed79ab6a46b2f3dc232033d85cc6834c4525ab\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21821ce58c4a7f382631f3557c52044529400807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\21c1431e263ca257ed9b8f7859c114bb40d33790\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_87671c1904b21c3c6d1302ded24a2952f165c244\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programs\TimeTable\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ea2932da69bc176087140d1952cbe92b7cd614eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\4384817344bd34ec401e7c57b1634a2649110d7e\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_60cd2fd51104d28129373d1ec4ca2b5e78873117\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\2e063babde9102cbf6984658aaeb6e5e6260e86b\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_cf7b540868e5e8eed99f3860bad448fb96cdb5c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.0\748f0546d5c3c27f1aef07270ffea0c45f0c42a4\rxjava-1.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-1.1.0_221e4114155b30462bcb18913eedbc187d415f95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\ff7f0038e3e6cbcfc2d5fee591dc305d7d598964\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9226f5ff8aefa5e71eab031a4cf19f1d1dd1e36f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.6.2_963652b58d9c04b5a0aa3d034160b32ea15f884c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\538ad92c54197d28bf7af2609b359663532e8888\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a3120d41e0105220f346504919383f3ccb2d567\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\2a0356d8506029ac24fd26ba63490e9339103f2e\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0d0cd8be9de88d074c317d5529a4a023a3a09574\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Programs\TimeTable\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68081923ad01ff40278a6916232251f50e381d44">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_439314660554139ce08b7dfc61dfc35360771846\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Programming\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_4a498d02ff61ade4f044b0f68d3ccd016122d046\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\6bd5909785a495a0c3e0cb512d3a7824214f070d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5c00ba06d5477ae0a9988494d68da75881d5a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\9b70c61152d7eef0e4cbcfd13548cd608845fc78\output\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1e558e371b3dff426efe468251083bb28ae3f9ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_d932527b0ffad7999b9d5f8926dad77e85737e1a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\2e063babde9102cbf6984658aaeb6e5e6260e86b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fea92ee9cf714a86d2ab3897c9773ee000505034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.0.0-beta4_66887d44886e9b8e33c152e70d14ee582bd1fe5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\97aec78cb4f990e8cf1724db2165a1b5c1aeb1ff\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ddb76e86641608bf89cf22fd354010625905243b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-7.0.1_e0460171b946f434fb62b680b9fa098b7a2f94ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\9b70c61152d7eef0e4cbcfd13548cd608845fc78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_35de82bfb1f2c87cdff03f8737cb1fd61244da66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.android\build-cache\2a0356d8506029ac24fd26ba63490e9339103f2e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3bdb3e61b856bfc89bb09efffce36269bc3f5ed5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\--C-W-Z--\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="E:\Programs\TimeTable\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_9774e5bb0bdd4a75b5fac80b6019ac3ed13ab0d5\classes.dex" />
+    </item>
+
+</items>
